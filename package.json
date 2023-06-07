@@ -41,13 +41,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/sourav-dev/utilityx",
+  "repository": "https://github.com/sourav-dev/react-native-utility-x",
   "author": "sourav-dev <mailto:souravdas595959@gmail.com> (https://github.com/sourav-dev)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sourav-dev/utilityx/issues"
+    "url": "https://github.com/sourav-dev/react-native-utility-x/issues"
   },
-  "homepage": "https://github.com/sourav-dev/utilityx#readme",
+  "homepage": "https://github.com/sourav-dev/react-native-utility-x#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
